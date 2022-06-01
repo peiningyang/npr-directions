@@ -18,7 +18,7 @@ If you would like to run the flask app locally, run the commands below.
 
 **Step 1: Clone the repo.**
 ```
-git clone https://github.com/razalamb1/npr-directions.git
+git clone https://github.com/peiningyang/npr-directions.git
 ```
 
 **Step 2: Navigate your way into the repo.**
